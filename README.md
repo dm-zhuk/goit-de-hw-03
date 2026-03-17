@@ -19,7 +19,7 @@ This project demonstrates a complete ETL (Extract, Transform, Load) pipeline usi
 ### How to Run
 1. Ensure the Spark Docker cluster is active on the VM.
 
-![Spark Docker cluster](01_ubuntu docker-vm.png)
+![Spark Docker cluster](screenshots/01_ubuntu_docker-vm.png)
 
 2. Place the CSV files in the shared `/opt/spark/work-dir`.
 3. Execute the job via Spark Submit:
